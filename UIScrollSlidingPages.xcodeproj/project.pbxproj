@@ -33,6 +33,7 @@
 		9F9B9BA117037C0B00CD45B4 /* TTScrollSlidingPagesController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F9B9BA017037C0B00CD45B4 /* TTScrollSlidingPagesController.m */; };
 		9F9B9BA51703836D00CD45B4 /* TTSlidingPage.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F9B9BA41703836D00CD45B4 /* TTSlidingPage.m */; };
 		9FFDC5CC1722EEA1002A5689 /* TTScrollViewWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FFDC5CB1722EEA1002A5689 /* TTScrollViewWrapper.m */; };
+		A6C807C217DD6529002923A5 /* UIScrollSlidingPages.podspec in Resources */ = {isa = PBXBuildFile; fileRef = A6C807C117DD6529002923A5 /* UIScrollSlidingPages.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -76,6 +77,7 @@
 		9F9B9BA7170387BE00CD45B4 /* TTSlidingPagesDataSource.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TTSlidingPagesDataSource.h; sourceTree = "<group>"; };
 		9FFDC5CA1722EEA1002A5689 /* TTScrollViewWrapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTScrollViewWrapper.h; sourceTree = "<group>"; };
 		9FFDC5CB1722EEA1002A5689 /* TTScrollViewWrapper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTScrollViewWrapper.m; sourceTree = "<group>"; };
+		A6C807C117DD6529002923A5 /* UIScrollSlidingPages.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = UIScrollSlidingPages.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 		9F70247D16DBF6650003B5FA = {
 			isa = PBXGroup;
 			children = (
+				A6C807C117DD6529002923A5 /* UIScrollSlidingPages.podspec */,
 				9F70248F16DBF6650003B5FA /* UIScrollViewSlidingPages */,
 				9F70248816DBF6650003B5FA /* Frameworks */,
 				9F70248716DBF6650003B5FA /* Products */,
@@ -281,6 +284,7 @@
 			files = (
 				9F70249416DBF6650003B5FA /* InfoPlist.strings in Resources */,
 				9F70249C16DBF6650003B5FA /* Default.png in Resources */,
+				A6C807C217DD6529002923A5 /* UIScrollSlidingPages.podspec in Resources */,
 				9F70249E16DBF6650003B5FA /* Default@2x.png in Resources */,
 				9F7024A016DBF6650003B5FA /* Default-568h@2x.png in Resources */,
 				9F7024CA16DBF7E20003B5FA /* TabOneViewController.xib in Resources */,
