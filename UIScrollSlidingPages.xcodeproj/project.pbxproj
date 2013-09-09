@@ -34,6 +34,7 @@
 		9F9B9BA51703836D00CD45B4 /* TTSlidingPage.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F9B9BA41703836D00CD45B4 /* TTSlidingPage.m */; };
 		9FFDC5CC1722EEA1002A5689 /* TTScrollViewWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FFDC5CB1722EEA1002A5689 /* TTScrollViewWrapper.m */; };
 		A6C807C217DD6529002923A5 /* UIScrollSlidingPages.podspec in Resources */ = {isa = PBXBuildFile; fileRef = A6C807C117DD6529002923A5 /* UIScrollSlidingPages.podspec */; };
+		A6C807C417DD69C1002923A5 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = A6C807C317DD69C1002923A5 /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -78,6 +79,7 @@
 		9FFDC5CA1722EEA1002A5689 /* TTScrollViewWrapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTScrollViewWrapper.h; sourceTree = "<group>"; };
 		9FFDC5CB1722EEA1002A5689 /* TTScrollViewWrapper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTScrollViewWrapper.m; sourceTree = "<group>"; };
 		A6C807C117DD6529002923A5 /* UIScrollSlidingPages.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = UIScrollSlidingPages.podspec; sourceTree = "<group>"; };
+		A6C807C317DD69C1002923A5 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +125,7 @@
 		9F70247D16DBF6650003B5FA = {
 			isa = PBXGroup;
 			children = (
+				A6C807C317DD69C1002923A5 /* LICENSE */,
 				A6C807C117DD6529002923A5 /* UIScrollSlidingPages.podspec */,
 				9F70248F16DBF6650003B5FA /* UIScrollViewSlidingPages */,
 				9F70248816DBF6650003B5FA /* Frameworks */,
@@ -292,6 +295,7 @@
 				9F7024D116DBFBE20003B5FA /* FancyCellView.xib in Resources */,
 				9F9B9B9C1703758A00CD45B4 /* TTViewController.xib in Resources */,
 				9F2035E61706475B00438E50 /* diagmonds.png in Resources */,
+				A6C807C417DD69C1002923A5 /* LICENSE in Resources */,
 				9F2035E71706475B00438E50 /* diagmonds_@2X.png in Resources */,
 				9F2035E81706475B00438E50 /* readme.txt in Resources */,
 				9F2035EB170648E600438E50 /* about-tomthorpelogo.png in Resources */,
