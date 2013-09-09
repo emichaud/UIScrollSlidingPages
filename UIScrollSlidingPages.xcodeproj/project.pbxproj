@@ -77,7 +77,7 @@
 		9F9B9BA7170387BE00CD45B4 /* TTSlidingPagesDataSource.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TTSlidingPagesDataSource.h; sourceTree = "<group>"; };
 		9FFDC5CA1722EEA1002A5689 /* TTScrollViewWrapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTScrollViewWrapper.h; sourceTree = "<group>"; };
 		9FFDC5CB1722EEA1002A5689 /* TTScrollViewWrapper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTScrollViewWrapper.m; sourceTree = "<group>"; };
-		A6C807BF17DD60A3002923A5 /* UIScrollSlidingPages.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = UIScrollSlidingPages.podspec; sourceTree = "<group>"; };
+		A6C807BF17DD60A3002923A5 /* UIScrollSlidingPages.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = UIScrollSlidingPages.podspec; path = UIScrollViewSlidingPages/UIScrollSlidingPages.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +123,7 @@
 		9F70247D16DBF6650003B5FA = {
 			isa = PBXGroup;
 			children = (
+				A6C807BF17DD60A3002923A5 /* UIScrollSlidingPages.podspec */,
 				9F70248F16DBF6650003B5FA /* UIScrollViewSlidingPages */,
 				9F70248816DBF6650003B5FA /* Frameworks */,
 				9F70248716DBF6650003B5FA /* Products */,
@@ -153,7 +154,6 @@
 				9F9B9B9D1703763E00CD45B4 /* SupportingLibraries */,
 				9F7024C416DBF7270003B5FA /* Demo */,
 				9F7024C016DBF6C00003B5FA /* Source */,
-				A6C807BF17DD60A3002923A5 /* UIScrollSlidingPages.podspec */,
 			);
 			path = UIScrollViewSlidingPages;
 			sourceTree = "<group>";
