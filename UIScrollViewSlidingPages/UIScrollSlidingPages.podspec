@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/emichaud/UIScrollSlidingPages.git", :tag => "0.0.1"}
   s.platform     = :ios
 
-  s.source_files = 'UIScrollViewSlidingPages/Source','UIScrollViewSlidingPages/SupportingLibraries'
+  s.source_files = 'UIScrollViewSlidingPages/Source'
   s.documentation = {}
   s.requires_arc = true
 end
